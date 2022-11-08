@@ -1,0 +1,75 @@
+*{
+	margin: 5 auto;
+	padding: 0px;
+	font-family: 'Gill Sans';
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: lightsteelblue;
+	background-color: whitesmoke;
+}
+
+.btn-rounded-grey{
+	border-style: solid;
+	border-radius: 15px;
+	width: 250px;
+	padding: 3px;
+	margin-top: 10px;
+	text-decoration: none;
+	padding: 5px;
+}
+.btn-rounded-grey:hover{
+	background: whitesmoke;
+}
+img{
+	width: 25%;
+	height: 5%;
+}
+hr{
+	width: 75%;
+}
+h2{
+	text-decoration: underline;
+	text-decoration-color: lightsteelblue;
+	font-size: 20px;
+	padding: -5px;
+}
+h3{
+	text-decoration: underline;
+	text-decoration-color: gold;
+	font-size: 20px;
+}
+h4{
+	text-decoration: underline;
+	text-decoration-color: gold;
+	font-size: 20px;
+}
+h5{
+	text-decoration: underline;
+	text-decoration-color: gold;
+	font-size: 20px;
+}
+button{
+	border-radius: 15px;
+	width: 150px;
+	height: 30px;
+}
+button>a{
+	border-radius: 15px;
+	width: 50px;
+	text-decoration: none;
+}
+button:hover{
+	color: gold;
+}
+button>a:hover{
+	color: gold;
+}
+form{
+	border: outset;
+	border-color: gold;
+	margin: 5px;
+}
+h5>form>textarea{
+	margin: 5px;
+}
